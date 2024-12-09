@@ -4,7 +4,7 @@
 - Enjoy! 
 
 ### All the edits below work with vorp_character, version 1.7 with these changes:
-1. Remove clothing option from character creator/second chance.
+1. Remove clothing option from the menu in character creator/second chance.
 2. Create Second Chance location at Doverhill Laboratory.
 3. Remove the RDO-like cut scene with lawmen when loading into character creator.
 
