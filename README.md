@@ -50,8 +50,8 @@
 # CUSTOM 3: Remove RDO cut scene with the lawmen.
 ------------------------------------------------------------ 
 - Reason: On my server, since we aren't outlaws, the cutscene went against The Lore.
-- # NOTE (2025-06-29): Since vorp_character v1.8 finally has a config to remove this RDO cut scene, this snippet is not longer needed. 
--- # I will keep this snippet here in the event anything changes on vorp_creator versions moving forwared.
+- NOTE (2025-06-29): Since vorp_character v1.8 finally has a config to remove this RDO cut scene, this snippet is not longer needed. 
+- I will keep this snippet here in the event anything changes on vorp_creator versions moving forwared.
 - Video clip: https://streamable.com/humh6i
 
 ## INSTRUCTIONS:
