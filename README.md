@@ -1,6 +1,7 @@
 # COYOTE MODIFICATIONS TO THE CHARACTER CREATOR
 - Use one or all modifications as needed.
 - As vorp_character versions are updated, I will update this repo.
+- NOTE (2025-06-29): I updated my fork of vorp_character 1.8 with snippets included here: https://github.com/Windswept-Horizons/vorp_character-lua
 - Enjoy! 
 
 ### All the edits below work with vorp_character, version 1.7 with these changes:
